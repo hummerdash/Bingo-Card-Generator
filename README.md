@@ -7,7 +7,7 @@ It is quite simple to understand what each value is doing. So feel free to chang
 
 I wrote this on a hurry because I couldn't find a generator that creates pintable cards.
 
-For tweaking th layout please set
+For tweaking the layout please set
 
   <code>boolean save = false;</code>
   
