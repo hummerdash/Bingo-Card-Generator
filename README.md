@@ -17,5 +17,6 @@ If you change the font or fontsize, make sure you adjust all the adjusters in th
 
 BINGO!
 
-<img src="https://github.com/hummerdash/Bingo-Card-Generator/edit/main/Custom Bingo_Set03_00.png" style=" width:300px "; >
+<img src="https://github.com/hummerdash/Bingo-Card-Generator/blob/main/preview.png?raw=true" width="300" >
+
 
