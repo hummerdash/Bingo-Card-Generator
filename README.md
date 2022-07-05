@@ -13,7 +13,7 @@ For tweaking the layout please set
   
 otherwise it alwasy creates a bunch of png files...
 
-If you change the font or fontsize, make sure you adjust all the adjusters in the code... titleAdjuster, freeAdjuster, genAdjuster...
+If you change the font or fontsize, make sure you adjust all the adjusters in the code... titleAdjuster, freeAdjuster, genAdjuster.
 
 BINGO!
 
